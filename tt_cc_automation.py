@@ -184,7 +184,7 @@ def do():
     make_file()
 
     print 'writing to csv'
-#    write_to_csv()
+    write_to_csv()
 
     print 'importing layers'
     import_layers()
