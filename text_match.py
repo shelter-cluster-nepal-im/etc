@@ -3,10 +3,8 @@
 """
 
 #TODO: create GUI or CLI commands
-##store corrected words
-##option to skip
+##store commonly corrected words
 ##parameterize limit nubmer of matches
-##not show VDCs as possilb emathces taht are already added
 ##store progress as progressing incase it fucks up
 
 
