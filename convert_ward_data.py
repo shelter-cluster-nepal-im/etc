@@ -1,7 +1,5 @@
 from openpyxl import Workbook
 import etl
-from fuzzywuzzy import fuzz
-from fuzzywuzzy import process
 
 def get_vals(ws):
     w = etl.pull_wb("/Users/ewanog/Downloads/ward.xlsx", "local")
